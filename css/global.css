@@ -41,3 +41,7 @@ h1 {
   font-family: "Monterrat";
   font-weight: var(--title-weight);
 }
+
+body {
+  font-family: "Monterrat", sans-serif;
+}
